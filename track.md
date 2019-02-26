@@ -14,20 +14,30 @@
 - Revisit the question next week.
 
 * Track
-Subject | problems | total hours | visited time | done
------------- | ------------- | ------------- | ------------- | -------------
-Arrays, LinkedList | LeetCode - Two Sum | 30 mins | 1
-| LeetCode - Reverse Integer | 35 mins | 1
-| LeetCode - Roman Integer | 35 mins | 1
-| LeetCode - Longest Common Prefix | 35 mins | 1
-Stack, Queue | LeetCode - Valid Parentheses | 30 mins | 1
-| LeetCode - Merge Two Sorted Lists | 35 mins | 1
-| LeetCode - Remove Duplicates from Sorted Array | 30 mins | 1
-| LeetCode - Implement strStr() | 30 mins | 1
-Tree, KMP | LeetCode - Count and Say | 35 mins | 1
-| LeetCode - Maximum Subarray | 35 mins | 1
-| LeetCode - Plus One | 25mins | 1
-Dynamic Arrays and Amortized Analysis | LeetCode - Sqrt(x) | 33 mins | 1
-| LeetCode - Climbing Stairs | 40 mins | 1
-| LeetCode - Merge Sorted Array | 35 mins | 1
-| LeetCode - Symmetric Tree | 25 mins | 1
+Subject
+------------
+Arrays, LinkedList
+Stack, Queue
+Tree, KMP
+Dynamic Arrays and Amortized Analysis
+Priority Queue: Binary Max Heap
+Priority Queue: Heap Sort
+
+problems | total hours | visited time | done
+------------- | ------------- | ------------- | -------------
+LeetCode - Two Sum | 30 + 27 mins | 2
+LeetCode - Reverse Integer | 35 + 33 mins | 2
+LeetCode - Roman Integer | 35 + 17 mins | 2 | Done
+LeetCode - Longest Common Prefix | 35 + 15 mins | 2
+LeetCode - Valid Parentheses | 30 + 12 mins | 2 | Done
+LeetCode - Merge Two Sorted Lists | 35 + 15 mins | 2
+LeetCode - Remove Duplicates from Sorted Array | 30 + 13 mins | 2 | Done
+LeetCode - Implement strStr() | 30 + 25 mins | 2
+LeetCode - Count and Say | 35 mins | 1
+LeetCode - Maximum Subarray | 35 mins | 1
+LeetCode - Plus One | 25mins | 1
+LeetCode - Sqrt(x) | 33 mins | 1
+LeetCode - Climbing Stairs | 40 mins | 1
+LeetCode - Merge Sorted Array | 35 mins | 1
+LeetCode - Symmetric Tree | 25 mins | 1
+
